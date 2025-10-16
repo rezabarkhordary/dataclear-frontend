@@ -4,11 +4,11 @@ import Features from '../components/Features'
 import UploadForm from '../components/UploadForm'
 import Pricing from '../components/Pricing'
 
-export default function Home(){
+export default function Home() {
   return (
     <>
       <Head>
-        <title>DataClear — AI-Powered Data Cleaning</title>
+        <title>DataClear - AI-Powered Data Cleaning</title>
         <meta name="description" content="AI-powered data cleaning platform. Clean, standardize and enrich datasets in minutes." />
       </Head>
       <main className="min-h-screen bg-white text-gray-900">
